@@ -190,16 +190,12 @@ const config = {
         links: [
 
           {
-            href: "https://nav.wiki-power.com/",
-            label: "友链 & 导航站",
+            href: "https://zhihu.blog/",
+            label: "知乎博客",
           },
           {
-            href: "http://digest.wiki-power.com/",
-            label: "书摘",
-          },
-          {
-            label: '资源仓库',
-            href: 'https://github.com/linyuxuanlin/File-host',
+            href: "https://zazhi.zhihu.blog/",
+            label: "杂志大全下载",
           },
 
           /*
