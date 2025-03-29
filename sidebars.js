@@ -274,26 +274,6 @@ const sidebars = {
 
 module.exports = sidebars;
 
-// archive：
-//'archive/Python学习笔记',
-//'archive/STM32麦轮小车',
-//'archive/RM校内赛-前期策划',
-//'archive/报告书都要写些什么？',
-//'archive/无人驾驶比赛',
-//'archive/硬件模块',
-//'archive/命令行基本操作'
-//'archive/科技X的访谈',
-//'archive/极简面包-烘培',
-//'电路设计中常用的接口及关键点',
-//'archive/Bash基础',
-//'archive/从零搭建视觉开发环境（Docker-Linux）',
-//'archive/Excel批量激活链接并转为图片',
-//'archive/智能硬件产品开发流程',
-//'archive/华广爬楼指北',
-//'archive/小车游华广-比赛',
-//'archive/麦昆小车-测评',
-//'archive/STM32模块设计-LED',
-//'archive/团队公开知识库的搭建',
 
 // unlist：
 //'unlist/电源设计-LDO跳变抑制能力对比测试记录',
