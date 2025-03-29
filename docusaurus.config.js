@@ -167,8 +167,8 @@ const config = {
 
 
         items: [{
-            to: "硬件与半导体",
-            label: "硬件与半导体",
+            to: "天涯神贴大合集",
+            label: "天涯神贴大合集",
             position: "right",
           },
           {
