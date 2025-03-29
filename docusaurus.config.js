@@ -172,11 +172,6 @@ const config = {
             position: "right",
           },
           {
-            to: "效率指南",
-            label: "效率指南",
-            position: "right",
-          },
-          {
             href: "https://github.com/linyuxuanlin/Wiki_Docusaurus",
             position: "right",
             className: "header-github-link",
