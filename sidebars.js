@@ -3,6 +3,7 @@ const sidebars = {
 
   硬件与半导体: [
     'Home',
+    slug: '/硬件与半导体',
     {
       type: 'category',
       label: '基础知识',
@@ -154,7 +155,6 @@ const sidebars = {
       link: {
         type: 'generated-index',
         //description: ' ',
-        slug: '/硬件与半导体',
         keywords: ['x', 'x'],
       },
       items: [
