@@ -191,11 +191,11 @@ const config = {
 
           {
             href: "https://zhihu.blog/",
-            label: "知乎博客",
+            label: "知乎博客主站",
           },
           {
             href: "https://zazhi.zhihu.blog/",
-            label: "杂志大全下载",
+            label: "电子书下载",
           },
 
           /*
