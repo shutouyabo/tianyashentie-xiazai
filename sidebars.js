@@ -35,12 +35,6 @@ const sidebars = {
         'RobotCtrl_Func-外设拓展板',
         'RobotCtrl_Power-电源供电板',
         'Flip-基于全志F1C200s的Linux开发板',
-        'OSD335x最小系统的设计',
-        '如何设计一款单片机的最小系统', // CSDN
-        'STM32F4硬件开发',
-        'SwiftCtrl-蓝牙手柄',
-        '自制CMSIS-DAP',
-        //'X86平台的硬件测试',
       ],
     },
 
