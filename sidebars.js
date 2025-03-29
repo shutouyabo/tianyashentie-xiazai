@@ -268,7 +268,7 @@ const sidebars = {
         'DCVI_Alarms'
       ],
     },
-
+    ],
 
 };
 
