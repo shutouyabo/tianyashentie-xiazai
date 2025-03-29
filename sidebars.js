@@ -271,6 +271,8 @@ const sidebars = {
 
 
 
+};
+
 module.exports = sidebars;
 
 // archive：
