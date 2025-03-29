@@ -3,13 +3,13 @@ const sidebars = {
 
   天涯神贴大合集: [
     'Home',
-    slug: '/天涯神贴大合集',
     {
       type: 'category',
       label: '基础知识',
       link: {
         type: 'generated-index',
         //description: '',
+        slug: '/天涯神贴大合集',
         keywords: ['硬件与半导体', '硬件与半导体基础知识', '电阻', '电容', '电感', '磁珠', '二极管', '三极管', 'MOS', '运算放大器', '数字电路', '设计规范', '推挽开漏', '共模差模', '储存介质', '锂电池', '编码器'],
       },
       items: [
@@ -214,7 +214,6 @@ const sidebars = {
         '线性注入器的使用',
       ],
     },
-
 
     {
       type: 'category',
