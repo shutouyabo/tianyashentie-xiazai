@@ -8,7 +8,7 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Power\'s Wiki天涯神贴',
+  title: '天涯神贴',
   tagline: '^_^',
   url: 'https://tianya.zhihu.blog',
   baseUrl: '/',
@@ -81,7 +81,7 @@ const config = {
           feedOptions: {
             type: 'all',
             title: 'Power\'s Blog',
-            description: '天涯神贴\'s Wiki 的博客 RSS',
+            description: '天涯神贴的RSS',
             copyright: `Copyright © ${new Date().getFullYear()} Power Lin.`,
           },
         },
