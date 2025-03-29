@@ -3,7 +3,7 @@ const sidebars = {
 
   硬件与半导体: [
     'Home',
-    slug: '/硬件与半导体',
+    slug: '/天涯神贴大合集',
     {
       type: 'category',
       label: '基础知识',
