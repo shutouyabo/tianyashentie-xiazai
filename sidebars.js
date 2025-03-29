@@ -5,7 +5,7 @@ const sidebars = {
     'Home',
     {
       type: 'category',
-      label: '基础知识',
+      label: '1、天涯神贴210',
       link: {
         type: 'generated-index',
         //description: '',
@@ -37,7 +37,7 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '嵌入式硬件',
+      label: '2、【蓬莱鬼话】【玄幻灵异】【中医命理】',
       link: {
         type: 'generated-index',
         //description: ' ',
@@ -60,7 +60,7 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '电机驱动',
+      label: '3、【金融财经】【股市楼市】【经济预测】',
       link: {
         type: 'generated-index',
         //description: ' ',
@@ -78,7 +78,7 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '通信协议',
+      label: '4、【人在江湖】【古今热点】【成长箴言】',
       link: {
         type: 'generated-index',
         //description: ' ',
@@ -97,7 +97,7 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '电源设计',
+      label: '5、天涯高阶神贴',
       link: {
         type: 'generated-index',
         //description: ' ',
@@ -125,7 +125,7 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '射频电路',
+      label: '6、十一大板块',
       link: {
         type: 'generated-index',
         //description: ' ',
@@ -148,125 +148,6 @@ const sidebars = {
       ],
     },
 
-
-    {
-      type: 'category',
-      label: '信号与电源完整性',
-      link: {
-        type: 'generated-index',
-        //description: ' ',
-        keywords: ['x', 'x'],
-      },
-      items: [
-        '高速电路的设计',
-        '信号完整性-基础概念',
-        '信号完整性-时域与频域',
-        '信号完整性-阻抗与电气模型',
-        '信号完整性-电阻的物理基础',
-        '信号完整性-传输线',
-        '信号完整性-失真',
-        '信号完整性-串扰',
-        '电源完整性设计',
-        'ESD基础知识',
-        'EMC设计指南',
-        '信号地与机壳地间的EMC设计',
-      ],
-    },
-
-    {
-      type: 'category',
-      label: '半导体自动化测试',
-      link: {
-        type: 'generated-index',
-        //description: ' ',
-        keywords: ['x', 'x'],
-      },
-      items: [
-        '半导体测试基础-基本概念',
-        '半导体测试基础-OS测试',
-        '半导体测试基础-DC参数测试',
-        '半导体测试基础-功能测试',
-        '半导体测试基础-AC参数测试',
-      ],
-    },
-
-    {
-      type: 'category',
-      label: '软件与仪器使用',
-      link: {
-        type: 'generated-index',
-        //description: ' ',
-        keywords: ['x', 'x'],
-      },
-      items: [
-        'AD常用技巧',
-        'AD基本操作-环境搭建',
-        'AD基本操作-基础知识',
-        'AD基本操作-原理图绘制',
-        'AD基本操作-多板系统设计',
-        'AD使用Git的注意事项',
-        '函数思想在电路设计中的应用',
-        'OrCAD配置与技巧',
-        '示波器的触发模式',
-        '网络分析仪的使用',
-        '逻辑分析仪的使用',
-        '宽带注入变压器的使用',
-        '线性注入器的使用',
-      ],
-    },
-
-    {
-      type: 'category',
-      label: 'ATE Test Fundamental',
-      link: {
-        type: 'generated-index',
-        //description: 'describtion to be updated',
-        keywords: ['x', 'x'],
-      },
-      items: [
-        'Continuity_Test',
-        'DC_Parameters',
-        'IDD_Test',
-        'Leakage_Test',
-        'Level_Threshold_Test',
-        'Digital_Functional_Test',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'ATE Mixed Signal Test',
-      link: {
-        type: 'generated-index',
-        slug: '/ATE',
-        //description: 'describtion to be updated',
-        keywords: ['x', 'x'],
-      },
-      items: [
-        'Basics_of_Mixed_Signal_Test',
-        'Basics_of_Fourier_Transform',
-        'ADC-Static_Parameters',
-        'ADC-Dynamic_Parameters',
-        'DAC-Static_Parameters',
-        'DAC-Dynamic_Parameters',
-        'Troubleshooting_of_ADC_and_DAC',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'ATE Coding Syntax',
-      link: {
-        type: 'generated-index',
-        //description: 'describtion to be updated',
-        keywords: ['x', 'x'],
-      },
-      items: [
-        'VBT_Syntax-TheHdw',
-        'VBT_Syntax-TheHdw-DCVI',
-        'VBT_Syntax-TheExec-Flow',
-        'Pattern_Syntax_Notes',
-        'DCVI_Alarms'
-      ],
-    },
     ],
 
 };
