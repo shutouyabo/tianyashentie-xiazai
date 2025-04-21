@@ -198,10 +198,11 @@ const config = {
             label: "电子书下载",
           },
 
-
-          <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-          <script>LA.init({id:"KnEkUhhnL1LAUT8U",ck:"KnEkUhhnL1LAUT8U"})</script>
-
+          {
+            href: "<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"KnEkUhhnL1LAUT8U",ck:"KnEkUhhnL1LAUT8U"})</script>",
+            label: "51tongji",
+          },
 
           /*
           {
