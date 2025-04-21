@@ -224,7 +224,9 @@ const config = {
           */
         ],
 
-
+        <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+        <script>LA.init({id:"KnEkUhhnL1LAUT8U",ck:"KnEkUhhnL1LAUT8U"})</script>
+        
         //copyright: `by Power Lin | 粤 ICP 备 20014898 号 | Built with Docusaurus.`,
       },
 
