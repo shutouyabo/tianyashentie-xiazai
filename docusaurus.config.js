@@ -177,6 +177,10 @@ const config = {
             className: "header-github-link",
             'aria-label': "GitHub repository",
           },
+          {
+            href: "https://dzkb.zhihu.blog/",
+            label: "电子课本网",
+          },
 
 
         ],
@@ -196,6 +200,10 @@ const config = {
           {
             href: "https://zazhi.zhihu.blog/",
             label: "电子书下载",
+          },
+          {
+            href: "https://dzkb.zhihu.blog/",
+            label: "电子课本网",
           },
 
 
