@@ -211,29 +211,6 @@ const config = {
           },
 
 
-          /*
-          {
-            label: '电源设计方案收集',
-            href: 'https://github.com/linyuxuanlin/Collection_of_Power_Module_Design',
-          },
-          {
-            href: "https://wiki.wildwolf.pw/",
-            label: "机器人队知识库",
-          },
-          {
-            label: '功能电路模块化',
-            href: 'https://github.com/linyuxuanlin/Modularity_of_Functional_Circuit',
-          },
-          
-          {
-            label: '网页版串口助手',
-            href: 'https://serial.wiki-power.com/',
-          },
-          {
-            label: 'Markdown 转公众号编辑器',
-            href: 'https://md2wechat.wiki-power.com/',
-          },
-          */
         ],
 
 
