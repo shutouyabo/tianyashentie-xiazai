@@ -181,6 +181,10 @@ const config = {
             href: "https://dzkb.zhihu.blog/",
             label: "电子课本网",
           },
+          {
+            href: "https://ebook.zhihu.blog/",
+            label: "电子书、杂志下载",
+          },
 
 
         ],
@@ -198,8 +202,8 @@ const config = {
             label: "知乎博客主站",
           },
           {
-            href: "https://zazhi.zhihu.blog/",
-            label: "电子书下载",
+            href: "https://ebook.zhihu.blog/",
+            label: "电子书、杂志下载",
           },
           {
             href: "https://dzkb.zhihu.blog/",
